@@ -1,0 +1,12 @@
+{
+  "short_name": "Capacitação Emergencial",
+  "name": "Capacitação Emergencial",
+  "icons": [{
+    "src": "icon.png",
+    "type": "image/png",
+    "sizes": "512x512"
+  }],
+  "start_url": "/?utm_source=homescreen",
+  "background_color": "#f44336",
+  "theme_color": "#f44336"
+}

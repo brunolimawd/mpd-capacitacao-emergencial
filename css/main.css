@@ -1,0 +1,45 @@
+.mdl-layout__content {
+  padding: 20px;
+}
+
+.demo-card-wide {
+  margin-bottom: 20px;
+}
+
+.demo-card-wide.mdl-card {
+  width: calc(100vw - 40px);
+}
+
+.demo-card-wide > .mdl-card__title {
+  padding: 0;
+}
+
+.demo-card-wide > .mdl-card__title.engenharia {
+  color: #fff;
+  height: 176px;
+  background: url('../img/construcao.jpg') center / cover;
+}
+.demo-card-wide > .mdl-card__title.culinaria {
+  color: #fff;
+  height: 176px;
+  background: url('../img/cooking.jpg') center / cover;
+}
+.demo-card-wide > .mdl-card__title.vendas {
+  color: #fff;
+  height: 176px;
+  background: url('../img/vendas.jpg') center / cover;
+}
+.demo-card-wide > .mdl-card__title.estudos {
+  color: #fff;
+  height: 176px;
+  background: url('../img/ed-robertson-eeSdJfLfx1A-unsplash.jpg') center / cover;
+}
+.demo-card-wide > .mdl-card__title .mdl-card__title-text {
+  display: block;
+  background: rgba(0, 0, 0, 0.479);
+  padding: 16px;
+}
+
+.demo-card-wide > .mdl-card__menu {
+  color: #fff;
+}
